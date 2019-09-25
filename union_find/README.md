@@ -6,7 +6,7 @@ Union Find
 1. **union** some of nodes
 1.  **determine** whether any **two nodes** are **connected**
 
-#### Methods
+#### My Methods
 * Quick Find
 * Quick Union
 * Weighted Quick Union
