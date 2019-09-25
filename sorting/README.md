@@ -1,27 +1,32 @@
-Union Find
+Sorting
 ===
 ## Overview
 
-1. Given N nodes
-1. **union** some of nodes
-1.  **determine** whether any **two nodes** are **connected**
+Puts elements of a list in a certain order.
+(from wikipedia)
 
-#### Methods
-* Quick Find
-* Quick Union
-* Weighted Quick Union
-
+#### My Methods
+* insertion sort 
+* bubble sort 
+* selection sort
+* shell sort 
+* quick sort 
+* merge sort 
 ---
 ## Cost
 
 
-|      Algorithm       | Woest-Case time | 
-|       :--------:     |   :--------:    | 
-|      Quick Find      |      M N        | 
-|      Quick Union     |      M N        | 
-| Weighted Quick Union |   N + M log N   | 
-**M operations of N nodes**
+|      Algorithm       |      Best       |      Aerage     |      Woest      | 
+|       :--------:     |   :--------:    |   :--------:    |   :--------:    | 
+|     insertion sort   |      N          |     $N^{2}$     |     $N^{2}$     | 
+|      bubble sort     |      N          |     $N^{2}$     |     $N^{2}$     | 
+|    selection sort    |    $N^{2}$      |     $N^{2}$     |     $N^{2}$     | 
+|      shell sort      |     N log N     |        *        |       *         | 
+|      quick sort      |     N log N     |     N log N     |     $N^{2}$     | 
+|      merge sort      |     N log N     |     N log N     |     N log N     | 
+
+*Depends on gap sequence
 
 ---
 
-###### tags: `Algorithm` `Union Find`
+###### tags: `Algorithm` `Sorting` `insertion sort` `bubble sort` `selection sort` 	`shell sort` `quick sort` `merge sort`
