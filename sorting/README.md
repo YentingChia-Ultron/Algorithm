@@ -15,7 +15,7 @@ Puts elements of a list in a certain order.
 ---
 ## Cost
 
-![](https://i.imgur.com/NQljIb8.png)
+![](https://i.imgur.com/NQljIb8.png =500x350)
 
 
 *Depends on gap sequence
