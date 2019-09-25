@@ -15,15 +15,8 @@ Puts elements of a list in a certain order.
 ---
 ## Cost
 
+![](https://i.imgur.com/NQljIb8.png)
 
-|      Algorithm       |      Best       |      Aerage     |      Woest      | 
-|       :--------:     |   :--------:    |   :--------:    |   :--------:    | 
-|     insertion sort   |      N          |     $N^{2}$     |     $N^{2}$     | 
-|      bubble sort     |      N          |     $N^{2}$     |     $N^{2}$     | 
-|    selection sort    |    $N^{2}$      |     $N^{2}$     |     $N^{2}$     | 
-|      shell sort      |     N log N     |        *        |       *         | 
-|      quick sort      |     N log N     |     N log N     |     $N^{2}$     | 
-|      merge sort      |     N log N     |     N log N     |     N log N     | 
 
 *Depends on gap sequence
 
