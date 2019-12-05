@@ -19,6 +19,7 @@ Union Find
 |      Quick Find      |      M N        | 
 |      Quick Union     |      M N        | 
 | Weighted Quick Union |   N + M log N   | 
+
 **M operations of N nodes**  
 
 ---
