@@ -16,8 +16,16 @@ Puts elements of a list in a certain order.
 ---
 ## Cost
 
-<img width="630" height="280" src="https://i.imgur.com/ZWrIjCf.png">  
 
+|      Algorithm       |     Best    |  Average    |    Worst    | 
+|       :--------:     |  :--------: |  :--------: |  :--------: | 
+|    insertion sort    |        N    |      $N^2$     |  $N^2$   | 
+|      bubble sort     |        N    |      $N^2$     | $N^2$    | 
+|   selection sort     |   $N^2$     |      $N^2$     | $N^2$    | 
+|   shell sort         |   N log N   |     *          |      *   | 
+|   quick sort         |   N log N   |     N log N    | $N^2$    | 
+|   merge sort         |   N log N   |     N log N    | N log N  | 
+|   heap sort          |   N log N   |    N log N     |  N log N |  
 *Depends on gap sequence  
 
 ---
