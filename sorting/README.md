@@ -2,24 +2,27 @@ Sorting
 ===
 ## Overview
 
-Puts elements of a list in a certain order.
-(from wikipedia)
+Puts elements of a list in a certain order.  
+(from wikipedia)  
 
 #### My Methods
-* insertion sort 
-* bubble sort 
-* selection sort
-* shell sort 
-* quick sort 
-* merge sort 
+* insertion sort  
+* bubble sort  
+* selection sort  
+* shell sort  
+* quick sort  
+* merge sort  
+* heap sort  
 ---
 ## Cost
 
-<img width="500" height="350" src="https://i.imgur.com/NQljIb8.png">
+<img width="630" height="280" src="https://i.imgur.com/ZWrIjCf.png">  
 
-
-*Depends on gap sequence
+*Depends on gap sequence  
 
 ---
 
-###### tags: `Algorithm` `Sorting` `insertion sort` `bubble sort` `selection sort` 	`shell sort` `quick sort` `merge sort`
+###### tags: `Algorithm` `Sorting` `insertion sort` `bubble sort` `selection sort` 	`shell sort` `quick sort` `merge sort` `heap sort`
+
+
+
