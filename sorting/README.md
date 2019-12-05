@@ -26,6 +26,7 @@ Puts elements of a list in a certain order.
 |   quick sort         |   N log N   |     N log N    | $N^2$    | 
 |   merge sort         |   N log N   |     N log N    | N log N  | 
 |   heap sort          |   N log N   |    N log N     |  N log N |  
+
 *Depends on gap sequence  
 
 ---
