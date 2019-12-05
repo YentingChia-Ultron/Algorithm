@@ -1,6 +1,8 @@
 # Algorithm
-Basic algorithms.
-1. Sorting (C++)  
+### Basic algorithms.
+
+---
+### 1. Sorting (C++)  
 * insertion sort  
 * bubble sort  
 * selection sort  
@@ -8,7 +10,13 @@ Basic algorithms.
 * quick sort  
 * merge sort  
 * heap sort  
-2. Union Find (C++)
+
+---
+### 2. Union Find (C++)
 * Quick Find  
 * Quick Union  
 * Weighted Quick Union  
+
+---
+
+###### tags: `Algorithm` 
