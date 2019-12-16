@@ -2,4 +2,4 @@ Searching
 ===
 
 
-###### tags: `Algorithm` `Union Find`
+###### tags: `Algorithm` `Searching`
