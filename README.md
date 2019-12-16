@@ -3,13 +3,13 @@
 
 ---
 ### 1. Sorting (C++)  
-* insertion sort  
-* bubble sort  
-* selection sort  
-* shell sort  
-* quick sort  
-* merge sort  
-* heap sort  
+* Insertion Sort  
+* Bubble Sort  
+* Selection Sort  
+* Shell Sort  
+* Quick Sort  
+* Merge Sort  
+* Heap Sort  
 
 ---
 ### 2. Union Find (C++)
@@ -18,5 +18,9 @@
 * Weighted Quick Union  
 
 ---
+### 3. Searching (Java)
+* Binary Search
+* Binary Search Tree
 
+---
 ###### tags: `Algorithm` 
